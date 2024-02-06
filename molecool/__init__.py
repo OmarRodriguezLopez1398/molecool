@@ -1,7 +1,7 @@
 """something awesome is about to happen"""
 
 # Add imports here
-from .molecool import *
-
+from .stock import *
+from . import functions
 
 from ._version import __version__
