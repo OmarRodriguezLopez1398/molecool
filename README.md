@@ -10,8 +10,10 @@ something awesome is about to happen
 ### Copyright
 
 Copyright (c) 2024, Omar Rodriguez
-
-
+##cola intructions
+submit a 'Pull Request'
+##Pull Request
+I am OMar
 #### Acknowledgements
  
 Project based on the 
